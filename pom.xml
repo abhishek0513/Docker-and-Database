@@ -52,6 +52,8 @@
 	</dependencies>
 
 	<build>
+
+		<finalName>docker-app</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
